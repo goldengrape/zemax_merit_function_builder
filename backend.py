@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 def operand(type="POWP",    
             param1=0,param2=0,param3=0.0,param4=0.0,
